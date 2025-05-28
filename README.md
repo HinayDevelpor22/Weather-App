@@ -1,4 +1,4 @@
 # Weather-App
 Front End of Weather App using HTML, CSS, JavaScript.
 <br>
-Developer : Hina Yousaf
+Web_Developer : Hina Yousaf
